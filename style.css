@@ -1,0 +1,46 @@
+.calculator {
+    height: 290px;
+    width: 200px;
+    background-color: silver;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 10px;
+    border: 1px solid #777;
+    border-radius: 12px;
+  }
+  
+  .main-bar {
+    margin-bottom: 20px;
+    text-align: right;
+  }
+  
+  .btn{
+    font-size: 15px;
+    cursor: pointer;
+    width: 40px;
+    border-radius: 12px;
+    text-align: center;
+    display: inline-block;
+    border: none;
+    caret-color: transparent;
+    
+  }
+  
+  .btn1 {
+    background-color: greenyellow;
+  }
+  
+  .btn2 {
+    background-color: yellow;
+  }
+  
+  .btn3 {
+    background-color: red;
+    width: 85px;
+  }
+  
+  .line {
+    margin-bottom: 10px;
+  }
+  
+  
